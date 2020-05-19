@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="automacao-webDriver-Zup" />
+        <module name="automacao-webDriver" />
       </profile>
     </annotationProcessing>
   </component>
